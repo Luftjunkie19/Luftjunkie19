@@ -1,6 +1,9 @@
 # 💫 About Me:
 
-<img src="/asset/20230210_070644.jpg" alt="Alt Text" style="border-radius: 50%; width: 100px; height: 100px; object-fit: cover;">
+<div style="border-radius: 50%; width: 100px; height: 100px;">
+<img src="/asset/20230210_070644.jpg" alt="Alt Text" style="width: 100%; height: 100%; object-fit: cover;">
+</div>
+
 
 
 Hi I'm Łukasz (Lukas), I come from Poland and last year during the vacation i found my passion, which is programming. Currently I'm kinda fluent in JS, CSS and HTML. But recently (06.02.2023) i got more experience with React.
