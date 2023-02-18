@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 <div style="border-radius: 50%; width: 100px; height: 100px;">
-<img src="/asset/20230210_070644.jpg" alt="Alt Text" style="width: 100%; height: 100%; object-fit: cover;">
+<img src="/asset/20230210_070644.jpg" alt="Alt Text" style="width: 100px; height: 100px; object-fit: cover;">
 </div>
 
 
