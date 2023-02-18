@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-![Profile Picture](/asset/20230210_070644.jpg)
+
 
 
 Hi I'm Łukasz (Lukas), I come from Poland and last year during the vacation i found my passion, which is programming. Currently I'm kinda fluent in JS, CSS and HTML. But recently (06.02.2023) i got more experience with React.
