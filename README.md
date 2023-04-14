@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-<img src="/asset/giphy-hello.gif" alt="Alt Text" width="200" height="200" style="object-fit: cover;" />
+<img src="/asset/giphy-hello.gif" alt="Alt Text" width="400" height="400" style="object-fit: cover;" />
 
 
 Hi I'm Łukasz (Lukas), I come from Poland and last year during the vacation i found my passion, which is programming. Currently I'm kinda fluent in JS, CSS and HTML. But recently (06.02.2023) i got more experience with React.
