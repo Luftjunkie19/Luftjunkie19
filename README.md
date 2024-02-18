@@ -3,7 +3,7 @@
 <img src="/asset/giphy-hello.gif" alt="Alt Text" width="350" height="250" style="object-fit: cover;" />
 
 
-Hi I'm Łukasz (Lukas), I come from Poland and last year during the vacation i found my passion, which is programming. Currently I'm kinda fluent in JS, React, React Native, CSS and HTML. But recently (06.02.2023).
+Hi I'm Łukasz (Lukas), I come from Poland and last year during the vacation i found my passion, which is programming. Currently I'm kinda fluent in JS, TS, React, React Native, CSS and HTML. Currently (18.02.2024) I am finishing my own project I've been doing for quite a long time for many reasons, practicing TypeScript and build also some projects to improve my UI skills.
 
 🔭 I’m currently working on some projects, that can improve my skills and portfolio <br>💬 If you want to know me better, let's talk on discord. Luftjunkie #1566<br>⚡ Fun fact: I was playing in academy of the one of the most famous football teams in the world<br>😲 Interesting fact: I speak fluently German 🇩🇪, English 🇬🇧 and Polish 🇵🇱
 
