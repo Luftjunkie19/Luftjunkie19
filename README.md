@@ -6,7 +6,7 @@
 Hi I'm Łukasz (Lukas), I come from Poland and last year during the vacation i found my passion, which is programming. Currently I'm fluent in JS, TS, React, React Native, NextJS, NodeJS, CSS and HTML.
 
 
-\
+
 
 🔭 I’m currently working on some projects, that can improve my skills and portfolio <br>💬 If you want to know me better, let's talk on discord. Luftjunkie #1566<br>⚡ Fun fact: I was playing in academy of the one of the most famous football teams in the world<br>😲 Interesting fact: I speak fluently German 🇩🇪, English 🇬🇧 and Polish 🇵🇱
 
