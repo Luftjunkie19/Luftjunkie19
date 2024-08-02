@@ -5,7 +5,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Łukasz</h1>
-<h3 align="center">A passionate Fullstack Javascript developer from Poland</h3>
+<h3 align="center">A passionate Fullstack Javascript developer from Poland and CEO of BookFreak</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luftjunkie19&label=Profile%20views&color=0e75b6&style=flat" alt="luftjunkie19" /> </p>
 
@@ -13,7 +13,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **RealEstate-3D-marketplace**
+- 🔭 I’m currently working on **BookFreak**
 
 - 🌱 I’m currently expanding knowledge about **programming in general and threeJS**
 
