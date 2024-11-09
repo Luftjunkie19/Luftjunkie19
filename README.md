@@ -5,7 +5,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Łukasz</h1>
-<h3 align="center">A passionate Fullstack Javascript developer from Poland and CEO of BookFreak</h3>
+<h3 align="center">A passionate Fullstack TypeScript/Blockchain developer from Poland and CEO of BookFreak</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luftjunkie19&label=Profile%20views&color=0e75b6&style=flat" alt="luftjunkie19" /> </p>
 
