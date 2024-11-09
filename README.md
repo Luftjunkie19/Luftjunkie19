@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 <div align="center">
-<img src="/asset/giphy-hello.gif" alt="Alt Text" width="350" height="250" style="object-fit: cover;" />
+<img src="/asset/giphy-hello.gif" alt="Alt Text" width="350" borderRadius="6px" height="250" style="object-fit: cover;" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Łukasz</h1>
