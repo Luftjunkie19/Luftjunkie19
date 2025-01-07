@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **lukasz.borkowski.kontakt@gmail.com**
 
-- ⚡ Essential fact **I know 3 languages fluently (German, English, Polish) and learn finnish**
+- ⚡ Essential fact **I know 3 languages fluently (German, English, Polish)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
