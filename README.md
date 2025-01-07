@@ -15,9 +15,9 @@
 
 - 🔭 I’m currently working on **BookFreak**
 
-- 🌱 I’m currently expanding knowledge about **programming in general and threeJS**
+- 🌱 I’m currently expanding knowledge about **Programming, Finances, Buisness and History (It would be an elaborate if I'd said concretely what do I learn currently.)**
 
-- 🤝 I’m looking for help with **ThreeJS**
+- 🤝 I’m looking for help with **Blockchain Development**
 
 - 👨‍💻 Selected projects of mine are available at [https://portfolio-lemon-two-91.vercel.app](https://portfolio-lemon-two-91.vercel.app)
 
