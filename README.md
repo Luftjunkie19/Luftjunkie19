@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/luftjunkie" target="blank"><img src="https://img.shields.io/twitter/follow/luftjunkie?logo=twitter&style=for-the-badge" alt="luftjunkie" /></a> </p>
 
-- 🔭 I’m recently have been working on **Hypermint**
+- 🔭 I’m currently working on **Web3 Builders DAO dApp**
 
 - 🌱 I’m currently learning **Cryptography, DSA**
 
