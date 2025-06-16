@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **Implementation of DSA into my projects, when to use which and also blockchain development practices are welcome.**
 
-- 📝 I try to be regularly active on X [[[https://x.com/luftjunkie](https://x.com/luftjunkie)](https://x.com/luftjunkie_19)](https://x.com/luftjunkie_19)
+- 📝 I try to be regularly active on X [https://x.com/luftjunkie](https://x.com/luftjunkie_19)
 
 - 💬 Ask me about **React, Web-development, History, Opinion about current system we live in.**
 
